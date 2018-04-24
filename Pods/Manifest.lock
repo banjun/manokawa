@@ -1,0 +1,18 @@
+PODS:
+  - FootlessParser (0.5.0)
+  - NorthLayout (5.1.0):
+    - FootlessParser (~> 0.4)
+  - ※ikemen (0.5.0)
+
+DEPENDENCIES:
+  - NorthLayout
+  - ※ikemen
+
+SPEC CHECKSUMS:
+  FootlessParser: bc75547b0ccd696a0496993f394fdef3a2d481d0
+  NorthLayout: 157045b4ef9e94019f00ec9dc66192c2b17c0c61
+  ※ikemen: 0cf85af52790db21a846ad31abca356e99da1ffb
+
+PODFILE CHECKSUM: 2fa64cdf8d86395324e72c74835298a4151bf544
+
+COCOAPODS: 1.4.0
